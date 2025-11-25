@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Casper-Dong
+Hey I'm Casper,
 
-Currently building space tech and some other cool stuff. Stay tuned :)
-
-<!---
-Casper-Dong/Casper-Dong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I recently won Hack the North, and during the summer won Hack the 6ix and Shopify's Mini Hackathon. Currently building Checkered Labs and other projects. 
